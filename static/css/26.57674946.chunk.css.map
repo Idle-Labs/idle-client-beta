@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/samuelecester/Desktop/git/idle-client/src/Governance/NewProposal/NewProposal.module.scss"],"names":[],"mappings":"AAAA,gCACE,oBAA+B,CAChC,AACD,kCACE,oBAA8B,CAC/B","file":"26.57674946.chunk.css","sourcesContent":[".input:valid{\n  border-color: rgb(40, 192, 129);\n}\n.input:invalid{\n  border-color: rgb(220, 44, 16);\n}"]}
